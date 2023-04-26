@@ -22,3 +22,8 @@ https://data.wprdc.org/dataset/allegheny-county-covid-19-vaccinations/resource/9
 This dataset contains the number of partially vaccinated, fully vaccinated, and fully vaccinated individuals with booster shots by each neighborhood in pittsburgh. To conduct the proper analysis, the ratio of each population of people that had booster shots was calculated and the neighborhood with the highest rate was determined.
 
 
+*FINAL NOTEBOOK CONCLUSIONS*
+
+Based upon the most common seen neighborhood for each of our individual notebook metrics, Hays (also shown as Haysville) is the neighborhood that you are most likely to live the longest in. 
+
+
